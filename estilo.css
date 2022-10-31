@@ -3,14 +3,31 @@
     justify-content: space-around;
 }
 header img{
-    width: 100%; 
+    width:100%; 
 }
 header div{
     font-size: 25px;
     text-align: center;
-    height: 50%;
+    height: 10%;
     width: 150px;
     border-radius: 50px;
     margin: 40px;
-    background-color:cadetblue;
+    background-color:rgb(181, 144, 216);
+}
+.imagens {
+    justify-content: space-around;
+    display: flex; 
+
+}
+.imgcard{
+    width:200px; 
+}
+.imagenss{
+    font-size: 30px;
+    display: flex; 
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 200px;
+    
 }
